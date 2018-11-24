@@ -1,0 +1,37 @@
+[18-Sep-2018 12:10:30 Asia/Kolkata] PHP Fatal error:  Call to a member function getMembersByCustomerId() on a non-object in /home/ourworks/public_html/kandora/application/controllers/Android/Android_register.php on line 62
+[18-Sep-2018 12:11:20 Asia/Kolkata] PHP Fatal error:  Call to a member function getMembersByCustomerId() on a non-object in /home/ourworks/public_html/kandora/application/controllers/Android/Android_register.php on line 62
+[20-Sep-2018 14:27:36 Asia/Kolkata] PHP Fatal error:  Call to a member function getMeasurements() on a non-object in /home/ourworks/public_html/kandora/application/controllers/Android/Android_measure.php on line 94
+[20-Sep-2018 14:28:49 Asia/Kolkata] PHP Fatal error:  Call to a member function getMeasurements() on a non-object in /home/ourworks/public_html/kandora/application/controllers/Android/Android_measure.php on line 94
+[24-Sep-2018 17:38:44 Asia/Kolkata] PHP Fatal error:  Call to a member function getOrdersByMemberId() on a non-object in /home/ourworks/public_html/kandora/application/controllers/Android/Android_orders.php on line 15
+[24-Sep-2018 17:39:32 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/ourworks/public_html/kandora/application/controllers/Android/Android_orders.php on line 21
+[24-Sep-2018 18:11:27 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:11:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:11:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:06 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:12 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:12 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:27 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:54 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:55 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:12:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:18 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:30 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:31 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:31 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:32 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:32 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:45 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:45 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:45 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:13:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare M_android::getOrdersByStaffId() in /home/ourworks/public_html/kandora/application/models/M_android.php on line 74
+[24-Sep-2018 18:14:02 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/ourworks/public_html/kandora/application/controllers/Android/Android_orders.php on line 31
+[25-Sep-2018 13:02:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_admin::getOrders() in /home/ourworks/public_html/kandora/application/controllers/Orders.php on line 15
